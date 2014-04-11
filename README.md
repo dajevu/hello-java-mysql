@@ -30,3 +30,5 @@ The application will download dependencies. Then it will be built and run.
 You can view the application at the 'Application Deployed URL'.
 
 That's all. Have fun!
+
+...

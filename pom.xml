@@ -3,7 +3,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.java-mysql</groupId>
 	<artifactId>zjava-mysql</artifactId>
-	<!-- test change -->
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>java-mysql</name>
