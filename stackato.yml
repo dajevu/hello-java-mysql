@@ -1,5 +1,5 @@
 name: hello-java-mysql
-mem: 512M
+mem: 516M
 framework:
   type: buildpack
 services:
